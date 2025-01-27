@@ -29,4 +29,4 @@ Since the data is categorical and we are working on a classification problem, I 
 By comparing the accuracies of all the models I concluded that XGBoost performed the best. Further, after implementing hyperparameter tuning, Random forest performed better.
 
 ### Usage:
-The jupyter notebook and the .csv file can be found in **ML project source code** and data folder
+The jupyter notebook and the .csv file can be found in **ML project source code** and data folder.
